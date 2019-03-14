@@ -32,7 +32,6 @@ SourceDir=Source
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
-Name: "scottishgaelic"; MessagesFile: "compiler:Languages\ScottishGaelic.isl"
 
 [Tasks]
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
